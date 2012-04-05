@@ -1,3 +1,4 @@
+* go-weather
 Fetches weather data from wunderground.com using the Go language.
 
 Seeks to be Go 1 compatible. If it isn't somehow, please file a bug.
