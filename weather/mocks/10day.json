@@ -1,0 +1,911 @@
+{
+  "response": {
+    "version": "0.1"
+    ,"termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+    ,"features": {
+      "hourly": 1
+    }
+  }
+  ,
+  "hourly_forecast": [
+    {
+      "FCTTIME": {
+	"hour": "23","hour_padded": "23","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "16","mday_padded": "16","yday": "75","isdst": "1","epoch": "1331964000","pretty": "11:00 PM PDT on March 16, 2012","civil": "11:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Friday","weekday_name_night": "Friday Night","weekday_name_abbrev": "Fri","weekday_name_unlang": "Friday","weekday_name_night_unlang": "Friday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "41", "metric": "5"},
+      "dewpoint": {"english": "30", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "4", "metric": "6"},
+      "wdir": {"dir": "NE", "degrees": "51"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "68",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "41", "metric": "5"},
+      "qpf": {"english": "0.00", "metric": "0.00"},
+      "snow": {"english": "0.00", "metric": "0.00"},
+      "pop": "40",
+      "mslp": {"english": "30.03", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "0","hour_padded": "00","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331967600","pretty": "12:00 AM PDT on March 17, 2012","civil": "12:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "4"},
+      "dewpoint": {"english": "31", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "4", "metric": "7"},
+      "wdir": {"dir": "NE", "degrees": "51"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "73",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "30.03", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "1","hour_padded": "01","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331971200","pretty": "1:00 AM PDT on March 17, 2012","civil": "1:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "4"},
+      "dewpoint": {"english": "33", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "5", "metric": "7"},
+      "wdir": {"dir": "NE", "degrees": "51"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "78",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "30.03", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "2","hour_padded": "02","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331974800","pretty": "2:00 AM PDT on March 17, 2012","civil": "2:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "SSW", "degrees": "192"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "83",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "0.01", "metric": "0.25"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "29.95", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "3","hour_padded": "03","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331978400","pretty": "3:00 AM PDT on March 17, 2012","civil": "3:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "SSW", "degrees": "192"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "85",
+      "windchill": {"english": "-6655", "metric": "-6665"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "29.95", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "4","hour_padded": "04","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331982000","pretty": "4:00 AM PDT on March 17, 2012","civil": "4:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "88",
+      "wspd": {"english": "9", "metric": "15"},
+      "wdir": {"dir": "SSW", "degrees": "192"},
+      "wx": " Chance of Light Rain ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-3312", "metric": "-3333"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "29.95", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "5","hour_padded": "05","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331985600","pretty": "5:00 AM PDT on March 17, 2012","civil": "5:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "97",
+      "wspd": {"english": "11", "metric": "18"},
+      "wdir": {"dir": "North", "degrees": "5"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "88",
+      "windchill": {"english": "30", "metric": "0"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "30", "metric": "0"},
+      "qpf": {"english": "0.01", "metric": "0.25"},
+      "snow": {"english": "0.00", "metric": "0.00"},
+      "pop": "40",
+      "mslp": {"english": "29.91", "metric": "997"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "6","hour_padded": "06","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331989200","pretty": "6:00 AM PDT on March 17, 2012","civil": "6:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "4"},
+      "dewpoint": {"english": "36", "metric": "2"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "97",
+      "wspd": {"english": "9", "metric": "15"},
+      "wdir": {"dir": "North", "degrees": "5"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "89",
+      "windchill": {"english": "-3312", "metric": "-3333"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "29.91", "metric": "997"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "7","hour_padded": "07","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331992800","pretty": "7:00 AM PDT on March 17, 2012","civil": "7:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "4"},
+      "dewpoint": {"english": "37", "metric": "3"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "12",
+      "sky": "97",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "North", "degrees": "5"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "90",
+      "windchill": {"english": "-6655", "metric": "-6665"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "40",
+      "mslp": {"english": "29.91", "metric": "997"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "8","hour_padded": "08","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1331996400","pretty": "8:00 AM PDT on March 17, 2012","civil": "8:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "41", "metric": "5"},
+      "dewpoint": {"english": "39", "metric": "4"},
+      "condition": "Rain",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "13",
+      "sky": "97",
+      "wspd": {"english": "6", "metric": "10"},
+      "wdir": {"dir": "North", "degrees": "3"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "91",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "41", "metric": "5"},
+      "qpf": {"english": "0.11", "metric": "2.79"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "29.91", "metric": "996"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "9","hour_padded": "09","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332000000","pretty": "9:00 AM PDT on March 17, 2012","civil": "9:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "39", "metric": "4"},
+      "dewpoint": {"english": "37", "metric": "3"},
+      "condition": "Rain",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "13",
+      "sky": "97",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "North", "degrees": "3"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "89",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "39", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "29.91", "metric": "996"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "10","hour_padded": "10","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332003600","pretty": "10:00 AM PDT on March 17, 2012","civil": "10:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Rain",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "13",
+      "sky": "97",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "North", "degrees": "3"},
+      "wx": " Light Rain , Occasional Light Snow ",
+      "uvi": "0",
+      "humidity": "88",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "29.91", "metric": "996"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "11","hour_padded": "11","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332007200","pretty": "11:00 AM PDT on March 17, 2012","civil": "11:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "36", "metric": "2"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "West", "degrees": "276"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "1",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "36", "metric": "2"},
+      "qpf": {"english": "0.11", "metric": "2.79"},
+      "snow": {"english": "0.39", "metric": "9.91"},
+      "pop": "70",
+      "mslp": {"english": "29.94", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "12","hour_padded": "12","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332010800","pretty": "12:00 PM PDT on March 17, 2012","civil": "12:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "West", "degrees": "276"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "1",
+      "humidity": "83",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "29.94", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "13","hour_padded": "13","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332014400","pretty": "1:00 PM PDT on March 17, 2012","civil": "1:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "3"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "4", "metric": "6"},
+      "wdir": {"dir": "West", "degrees": "276"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "1",
+      "humidity": "80",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "29.94", "metric": "998"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "14","hour_padded": "14","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332018000","pretty": "2:00 PM PDT on March 17, 2012","civil": "2:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "39", "metric": "4"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "North", "degrees": "0"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "2",
+      "humidity": "77",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "39", "metric": "4"},
+      "qpf": {"english": "0.04", "metric": "1.02"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "30.01", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "15","hour_padded": "15","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332021600","pretty": "3:00 PM PDT on March 17, 2012","civil": "3:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "4"},
+      "dewpoint": {"english": "33", "metric": "1"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "6", "metric": "10"},
+      "wdir": {"dir": "North", "degrees": "0"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "2",
+      "humidity": "78",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "30.01", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "16","hour_padded": "16","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332025200","pretty": "4:00 PM PDT on March 17, 2012","civil": "4:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "5"},
+      "dewpoint": {"english": "35", "metric": "1"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "92",
+      "wspd": {"english": "7", "metric": "11"},
+      "wdir": {"dir": "North", "degrees": "0"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "2",
+      "humidity": "79",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "5"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "70",
+      "mslp": {"english": "30.01", "metric": "1000"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "17","hour_padded": "17","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332028800","pretty": "5:00 PM PDT on March 17, 2012","civil": "5:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "41", "metric": "5"},
+      "dewpoint": {"english": "36", "metric": "2"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "8", "metric": "13"},
+      "wdir": {"dir": "West", "degrees": "262"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "80",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "41", "metric": "5"},
+      "qpf": {"english": "0.04", "metric": "1.02"},
+      "snow": {"english": "0.00", "metric": "0.00"},
+      "pop": "80",
+      "mslp": {"english": "30.06", "metric": "1001"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "18","hour_padded": "18","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332032400","pretty": "6:00 PM PDT on March 17, 2012","civil": "6:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "5"},
+      "dewpoint": {"english": "35", "metric": "2"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "6", "metric": "9"},
+      "wdir": {"dir": "West", "degrees": "262"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "79",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "5"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "80",
+      "mslp": {"english": "30.06", "metric": "1001"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "19","hour_padded": "19","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332036000","pretty": "7:00 PM PDT on March 17, 2012","civil": "7:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "40", "metric": "4"},
+      "dewpoint": {"english": "35", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "3", "metric": "6"},
+      "wdir": {"dir": "West", "degrees": "262"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "79",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "40", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "80",
+      "mslp": {"english": "30.06", "metric": "1001"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "20","hour_padded": "20","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332039600","pretty": "8:00 PM PDT on March 17, 2012","civil": "8:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "39", "metric": "4"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "1", "metric": "2"},
+      "wdir": {"dir": "South", "degrees": "174"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "78",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "39", "metric": "4"},
+      "qpf": {"english": "0.03", "metric": "0.76"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "60",
+      "mslp": {"english": "30.12", "metric": "1004"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "21","hour_padded": "21","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332043200","pretty": "9:00 PM PDT on March 17, 2012","civil": "9:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "3"},
+      "dewpoint": {"english": "33", "metric": "1"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "1", "metric": "2"},
+      "wdir": {"dir": "South", "degrees": "174"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "81",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "60",
+      "mslp": {"english": "30.12", "metric": "1004"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "22","hour_padded": "22","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332046800","pretty": "10:00 PM PDT on March 17, 2012","civil": "10:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "33", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "South", "degrees": "174"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "85",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "60",
+      "mslp": {"english": "30.12", "metric": "1004"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "23","hour_padded": "23","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "17","mday_padded": "17","yday": "76","isdst": "1","epoch": "1332050400","pretty": "11:00 PM PDT on March 17, 2012","civil": "11:00 PM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Saturday","weekday_name_night": "Saturday Night","weekday_name_abbrev": "Sat","weekday_name_unlang": "Saturday","weekday_name_night_unlang": "Saturday Night","ampm": "PM","tz": "","age": ""
+      },
+      "temp": {"english": "36", "metric": "2"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "South", "degrees": "190"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "88",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "36", "metric": "2"},
+      "qpf": {"english": "0.03", "metric": "0.76"},
+      "snow": {"english": "0.00", "metric": "0.00"},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "0","hour_padded": "00","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332054000","pretty": "12:00 AM PDT on March 18, 2012","civil": "12:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "35", "metric": "2"},
+      "dewpoint": {"english": "31", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "South", "degrees": "190"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "87",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "35", "metric": "2"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "1","hour_padded": "01","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332057600","pretty": "1:00 AM PDT on March 18, 2012","civil": "1:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "35", "metric": "1"},
+      "dewpoint": {"english": "31", "metric": "0"},
+      "condition": "Chance of Rain",
+      "icon": "chancerain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancerain.gif",
+      "fctcode": "10",
+      "sky": "78",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "South", "degrees": "190"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "35", "metric": "1"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "2","hour_padded": "02","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332061200","pretty": "2:00 AM PDT on March 18, 2012","civil": "2:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "34", "metric": "1"},
+      "dewpoint": {"english": "30", "metric": "0"},
+      "condition": "Chance of Snow",
+      "icon": "chancesnow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancesnow.gif",
+      "fctcode": "20",
+      "sky": "78",
+      "wspd": {"english": "2", "metric": "3"},
+      "wdir": {"dir": "WSW", "degrees": "250"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "85",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "34", "metric": "1"},
+      "qpf": {"english": "0.00", "metric": "0.00"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "3","hour_padded": "03","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332064800","pretty": "3:00 AM PDT on March 18, 2012","civil": "3:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "34", "metric": "1"},
+      "dewpoint": {"english": "31", "metric": "0"},
+      "condition": "Chance of Snow",
+      "icon": "chancesnow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancesnow.gif",
+      "fctcode": "20",
+      "sky": "78",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "WSW", "degrees": "250"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "34", "metric": "1"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "4","hour_padded": "04","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332068400","pretty": "4:00 AM PDT on March 18, 2012","civil": "4:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "34", "metric": "1"},
+      "dewpoint": {"english": "31", "metric": "0"},
+      "condition": "Chance of Snow",
+      "icon": "chancesnow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_chancesnow.gif",
+      "fctcode": "20",
+      "sky": "78",
+      "wspd": {"english": "4", "metric": "6"},
+      "wdir": {"dir": "WSW", "degrees": "250"},
+      "wx": " Chance of Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "34", "metric": "1"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.19", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "5","hour_padded": "05","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332072000","pretty": "5:00 AM PDT on March 18, 2012","civil": "5:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "34", "metric": "1"},
+      "dewpoint": {"english": "32", "metric": "0"},
+      "condition": "Snow",
+      "icon": "snow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_snow.gif",
+      "fctcode": "21",
+      "sky": "76",
+      "wspd": {"english": "5", "metric": "8"},
+      "wdir": {"dir": "South", "degrees": "182"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "87",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "34", "metric": "1"},
+      "qpf": {"english": "0.00", "metric": "0.00"},
+      "snow": {"english": "0.00", "metric": "0.00"},
+      "pop": "50",
+      "mslp": {"english": "30.21", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "6","hour_padded": "06","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332075600","pretty": "6:00 AM PDT on March 18, 2012","civil": "6:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "35", "metric": "2"},
+      "dewpoint": {"english": "33", "metric": "0"},
+      "condition": "Snow",
+      "icon": "snow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_snow.gif",
+      "fctcode": "21",
+      "sky": "76",
+      "wspd": {"english": "4", "metric": "7"},
+      "wdir": {"dir": "South", "degrees": "182"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "35", "metric": "2"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.21", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "7","hour_padded": "07","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332079200","pretty": "7:00 AM PDT on March 18, 2012","civil": "7:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "36", "metric": "2"},
+      "dewpoint": {"english": "33", "metric": "1"},
+      "condition": "Snow",
+      "icon": "snow",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/nt_snow.gif",
+      "fctcode": "21",
+      "sky": "76",
+      "wspd": {"english": "4", "metric": "6"},
+      "wdir": {"dir": "South", "degrees": "182"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "86",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "36", "metric": "2"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.21", "metric": "1006"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "8","hour_padded": "08","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332082800","pretty": "8:00 AM PDT on March 18, 2012","civil": "8:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "37", "metric": "3"},
+      "dewpoint": {"english": "34", "metric": "1"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "76",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "SSE", "degrees": "164"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "85",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "37", "metric": "3"},
+      "qpf": {"english": "0.00", "metric": "0.00"},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.22", "metric": "1007"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "9","hour_padded": "09","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332086400","pretty": "9:00 AM PDT on March 18, 2012","civil": "9:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "3"},
+      "dewpoint": {"english": "33", "metric": "1"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "76",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "SSE", "degrees": "164"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "83",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "3"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.22", "metric": "1007"}
+    }
+    ,
+    {
+      "FCTTIME": {
+	"hour": "10","hour_padded": "10","min": "00","sec": "0","year": "2012","mon": "3","mon_padded": "03","mon_abbrev": "Mar","mday": "18","mday_padded": "18","yday": "77","isdst": "1","epoch": "1332090000","pretty": "10:00 AM PDT on March 18, 2012","civil": "10:00 AM","month_name": "March","month_name_abbrev": "Mar","weekday_name": "Sunday","weekday_name_night": "Sunday Night","weekday_name_abbrev": "Sun","weekday_name_unlang": "Sunday","weekday_name_night_unlang": "Sunday Night","ampm": "AM","tz": "","age": ""
+      },
+      "temp": {"english": "38", "metric": "4"},
+      "dewpoint": {"english": "33", "metric": "0"},
+      "condition": "Rain Showers",
+      "icon": "rain",
+      "icon_url":"http://icons-ak.wxug.com/i/c/k/rain.gif",
+      "fctcode": "11",
+      "sky": "76",
+      "wspd": {"english": "3", "metric": "5"},
+      "wdir": {"dir": "SSE", "degrees": "164"},
+      "wx": " Scattered Light Rain Showers ",
+      "uvi": "0",
+      "humidity": "81",
+      "windchill": {"english": "-9998", "metric": "-9998"},
+      "heatindex": {"english": "-9998", "metric": "-9998"},
+      "feelslike": {"english": "38", "metric": "4"},
+      "qpf": {"english": "", "metric": ""},
+      "snow": {"english": "", "metric": ""},
+      "pop": "50",
+      "mslp": {"english": "30.22", "metric": "1007"}
+    }
+  ]
+}
