@@ -2,3 +2,39 @@
 Fetches weather data from wunderground.com using the Go language.
 
 Seeks to be Go 1 compatible. If it isn't somehow, please file a bug.
+
+#+begin_src go
+  package main
+
+
+  import (
+          "weather"
+          "time"
+          "strconv"
+          "flag"
+          "log"
+  )
+
+  var key *string = flag.String("api_key", "", "wunderground API key")
+
+  func main() {
+          flag.Parse()
+          if *key == "" {
+                  log.Fatal("You must specify an API key.");
+                  return
+          }
+          c := weather.CreateClient(*key)
+          w := c.Get10DayForecast("WA/Seattle")
+
+          for i, hourly_forecast := range w.Forecast {
+                  epoch, _ := strconv.ParseInt(hourly_forecast.WeatherTime.Epoch, 0, 64)
+                  forecast_time := time.Unix(epoch, 0)
+                  if (i == 0) {
+                          log.Printf("%s\n", forecast_time.Format("Sunday, January 14, 2012"))
+                  }
+                  log.Printf("On %s\n", forecast_time.Format("3:04PM"))
+                  log.Printf("Temperature: %sF\n", hourly_forecast.Temperature.English)
+                  log.Printf("Likelyhood of rain? %s%%\n", hourly_forecast.ProbabilityOfPercipitation)
+          }
+  }
+#+end_src
