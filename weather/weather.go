@@ -15,28 +15,48 @@ type WeatherFeed struct {
 }
 
 type HourlyForecast struct {
-	WeatherTime WeatherTime `json:"FCTTIME"`
-	ProbabilityOfPercipitation string `json:"pop"`
-	Temperature Temperature `json:"temp"`
+	WeatherTime                WeatherTime   `json:"FCTTIME"`
+	ProbabilityOfPercipitation string        `json:"pop"`
+	Temperature                EngMet        `json:"temp"`
+	Dewpoint                   EngMet        `json:"dewpoint"`
+	Condition                  string        `json:"condition"`
+        Sky                        string        `json:"sky"`
+	SkyDescription             string        `json:"wx"`
+	WindSpeed                  EngMet        `json:"wspd"`
+	WindDirection              Winddirection `json:"wdir"`
+	Humidity                   string        `json:"humidity"`
+	Feelslike                  EngMet        `json:"Feelslike"`
+	Snow                       EngMet        `json:"snow"`
+	ForecastDescriptionNumbers string        `json:"fctcode"`
+        Preasure                   EngMet        `json:"mslp"`
+}
+
+type Winddirection struct {
+	Direction string `json:"dir"`
+	Degrees   string `json:"degrees"`
 }
 
 type WeatherTime struct {
-	Epoch string
+	Epoch   string `json:"Epoch"`
+	Hour    string `json:"Hour"`
+	Day     string `json:"mday"`
+	Mon     string `json:"mon"`
+	Year    string `json:"year"`
+	Weekday string `json:"weekday_name"`
 	// TODO(justinlilly): Need to do datetime using seconds since epoch
 }
 
-type Temperature struct {
+type EngMet struct {
 	// TODO(justinlilly): It would be nice to have stronger types here.
 	English string
-	Metric string
+	Metric  string
 }
 
 type WeatherResult struct {
-	Time time.Time
-	Temperature Temperature
+	Time                time.Time
+	Temperature         EngMet
 	PercipitationChance uint8
 }
-
 
 type Credentials struct {
 	Key string
