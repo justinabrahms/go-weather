@@ -15,13 +15,25 @@ type WeatherFeed struct {
 }
 
 type HourlyForecast struct {
-	WeatherTime WeatherTime `json:"FCTTIME"`
-	ProbabilityOfPercipitation string `json:"pop"`
-	Temperature Temperature `json:"temp"`
+	WeatherTime                WeatherTime `json:"FCTTIME"`
+	ProbabilityOfPercipitation string      `json:"pop"`
+	Temperature                Temperature `json:"temp"`
+	Dewpoint                   Dewpoint    `json:"dewpoint"`
+	Condition                  string      `json:"condition"`
+
 }
 
+type Dewpoint struct {
+	English string
+	Metric string
+}
+
+
 type WeatherTime struct {
-	Epoch string
+	Epoch string `json:"Epoch"`
+	Hour  string `json:"Hour"`
+	Day   string `json:"mday"`
+	Mon   string `json:"mon"`
 	// TODO(justinlilly): Need to do datetime using seconds since epoch
 }
 
